@@ -1,2 +1,2 @@
 # barbeariaalura
-Site feito na aula de Front-end da Alura, com o instrutor Pedro Marins
+Website made in Alura's Front-end class, with instructor Pedro Marins
