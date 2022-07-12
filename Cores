@@ -1,0 +1,22 @@
+No CSS é possível representar as cores de forma hexadecimal, RGB e os nomes das cores.
+
+RGB = RED GREEN BLUE
+
+# _ _ _ _ _ _
+
+0 = ausência
+
+F = máximo
+
+# 000000 = preto
+
+# FF0000 = vermelho
+
+RGB 0, 1, 2, 3... 255
+
+0 = ausência
+
+255 = máximo
+
+rgb(255, 255, 255)
+rgb(0,0,255)
